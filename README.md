@@ -1,6 +1,7 @@
 # Dictionary-CLI
 
-Simple dictionnary CLI using a [badger](https://github.com/dgraph-io/badger) key value database written in go
+This project was made for educationnal purposes by @Farischt
+Simple dictionnary CLI using a [badger](https://github.com/dgraph-io/badger) key value database written in go.
 
 ## Using the CLI
 
