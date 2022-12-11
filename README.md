@@ -1,6 +1,7 @@
 # Dictionary-CLI
 
-This project was made for educationnal purposes by @Farischt
+This project was made for educationnal purposes by @Farischt.
+
 Simple dictionnary CLI using a [badger](https://github.com/dgraph-io/badger) key value database written in go.
 
 ## Using the CLI
@@ -11,7 +12,7 @@ First build the project:
 
 Once you've built the project you can start using the CLI as following:
 
-`./build -action add Golang "Golang is a beautiful programming language" `
+`./build -action add Golang "Golang is a beautiful programming language"`
 
 The previous command allows you to add the word Golang in the dictionnary.
 
